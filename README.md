@@ -1,12 +1,14 @@
-# pizza-menu
+# Pizza Menu
 
 Small and simple project which shows a list of different pizzas. 
 
 A training project in which the following React's concepts were used: components, props, JSX.
 
-pizza-menu bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DEMO
 
-## Available Scripts
+You can visit the [DEMO](https://m9iv.github.io/kzaviryukha.github.io/demo/pizza-menu/index.html) page.
+
+### Available Scripts
 
 In the project directory:
 
